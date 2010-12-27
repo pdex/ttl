@@ -1,0 +1,7 @@
+application: pdexttl
+version: 1
+runtime: java
+
+handlers:
+- url: .*
+  servlet: pdexttl.app
