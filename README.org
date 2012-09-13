@@ -1,0 +1,7 @@
+#+begin_ditaa foo.png -r -S
++-----+
+|{io} |
+|     |
+|     |
++-----+
+#+end_ditaa
